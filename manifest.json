@@ -1,0 +1,9 @@
+{
+  "display_name": "Emotional Core",
+  "loading_order": 0,
+  "js": "emotional-core/index.js",
+  "css": "emotional-core/style.css",
+  "git_url": "https://github.com/shrx1376/sillytavern-emotional-core.git",
+  "author": "You",
+  "version": "1.0"
+}
